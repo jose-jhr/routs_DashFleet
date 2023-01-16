@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219930497704",
+    "project_id": "login-dashfleet",
+    "storage_bucket": "login-dashfleet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219930497704:android:925558c64b1cbcaa6be89d",
+        "android_client_info": {
+          "package_name": "com.ingenieria.rutasdashfleet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219930497704-15c1oj7mo309to72ejfk39hcamfuk790.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AD3yvxvNAuEQsnp9bev2sVQA1YzOGEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219930497704-15c1oj7mo309to72ejfk39hcamfuk790.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

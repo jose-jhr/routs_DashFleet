@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rutas DashFleet</string>
+    <string name="login">Login</string>
+    <string name="amb_app">AMB APP</string>
+    <string name="celular">Celular</string>
+    <string name="clave">Clave</string>
+    <string name="entrar">Entrar</string>
+    <string name="olvido_su_clave">¿Olvido su clave?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home fragment</string>
+    <string name="a_continuaci_n_se_muestran_las_rutas_disponibles_en_la_aplicaci_n">A continuación se muestran las rutas disponibles en la aplicación</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/drawable/circular_image.xml" value="0.1465" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/drawable/drawable_expanded.xml" value="0.156" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.156" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/drawable/rounded_button.xml" value="0.156" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/drawable/rounded_edit_text.xml" value="0.2" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/drawable/rounded_switch.xml" value="0.2" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/layout/activity_main.xml" value="0.536" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/layout/activity_main_routes.xml" value="0.72" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/layout/activity_menu_rutas.xml" value="0.45494186046511625" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/layout/fragment_home.xml" value="0.4" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/layout/fragment_routes.xml" value="0.6962209302325582" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/layout/model_routes_view.xml" value="0.6962209302325582" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/menu/botoom_navigation.xml" value="0.8800000000000001" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1095" />
+        <entry key="..\:/17.dashfleet/0.Prueba Tecnica/0.Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1095" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
